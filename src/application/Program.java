@@ -15,7 +15,7 @@ public class Program {
 
 	public static void main(String[] args) {
 		
-		/*this program is to update information in the 
+		/*this program is to delete information in the 
 		database table*/
 		
 		Connection conn = null;
